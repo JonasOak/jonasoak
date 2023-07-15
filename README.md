@@ -29,6 +29,7 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasOak&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
+## Visitas
 <a href="https://github.com/JonasOak">
   <img src="https://visitcount.itsvg.in/api?id=JonasOak&label=Profile%20Views&color=12&icon=7&pretty=false" />
 </a>
