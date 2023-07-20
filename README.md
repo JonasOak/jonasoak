@@ -39,13 +39,21 @@ em aprender como muitas tecnologias funcionam. Entrei no mundo da programação 
 ## Obrigado pela visita
 
 <p align="center">
-  <a href="https://github.com/JonasOak" target="_blank">
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gato" width="1176" height="588">
+  <a href="https://github.com/JonasOak" target="_blank" title="Você, visualizando meu perfil">
+   <img src="https://data.bloggif.com/distant/user/store/b/a/1/9/795408f089e9bf4e57bc21cc52de91ab.gif" alt="Gatão"/>
   </a>
 </p>
-<a href="https://github.com/JonasOak">
-  <img src="https://visitcount.itsvg.in/api?id=JonasOak&label=Profile%20Views&color=12&icon=7&pretty=false" />
-</a>
 
+<!-- Possível reuso
+<p align="center">
+  <a href="https://exemplo.com/pagina-alvo" target="_blank">
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gato" width="588">
+  </a>
+</p>
+-->
 
-
+<p align="center">
+  <a href="https://github.com/JonasOak">
+    <img src="https://visitcount.itsvg.in/api?id=JonasOak&label=Profile%20Views&color=12&icon=7&pretty=false" />
+  </a>
+</p>
