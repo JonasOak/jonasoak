@@ -12,7 +12,6 @@ em aprender como muitas tecnologias funcionam. Entrei no mundo da programação 
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </div>
 
-
 ## Em breve retomarei a estudar desenvolvimento web
 
 <div>
@@ -33,8 +32,6 @@ em aprender como muitas tecnologias funcionam. Entrei no mundo da programação 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JonasOak&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasOak&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-
-<!-- ## Visitas -->
 
 ## Obrigado pela visita
 
