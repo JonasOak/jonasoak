@@ -37,7 +37,7 @@ em aprender como muitas tecnologias funcionam. Entrei no mundo da programação 
 
 <p align="center">
   <a href="https://github.com/JonasOak" target="_blank" title="Você, visualizando meu perfil">
-   <img src="https://data.bloggif.com/distant/user/store/b/a/1/9/795408f089e9bf4e57bc21cc52de91ab.gif" alt="Gatão"/>
+   <img src="https://data.bloggif.com/distant/user/store/b/a/1/9/795408f089e9bf4e57bc21cc52de91ab.gif" alt="Gato digitando"/>
   </a>
 </p>
 
