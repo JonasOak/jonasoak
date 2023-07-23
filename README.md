@@ -33,7 +33,7 @@ em aprender como muitas tecnologias funcionam. Entrei no mundo da programação 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasOak&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-## Obrigado pela visita
+## Obrigado pela visita 
 
 <p align="center">
   <a href="https://github.com/JonasOak" target="_blank" title="Você, visualizando meu perfil">
