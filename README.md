@@ -1,4 +1,4 @@
-### Olá pessoal. 👋 Bemvindos ao meu perfil do GitHub!
+### Olá pessoal. 👋 Bem-vindos ao meu perfil do GitHub!
 
 ## Sobre Mim
 
