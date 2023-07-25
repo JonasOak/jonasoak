@@ -1,6 +1,6 @@
 ### Olá pessoal. 👋 Bem-vindos ao meu perfil do GitHub!
 
-## Sobre Mi
+## Sobre Mim
 
 Sou um estudante de programação e aspirante a desenvolvedor Java. Amo tecnologia desde criança e sempre tive curiosidade
 em aprender como muitas tecnologias funcionam. Entrei no mundo da programação aos 16 anos e pretendo aprender muito mais.
