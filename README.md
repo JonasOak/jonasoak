@@ -30,7 +30,8 @@ em aprender como muitas tecnologias funcionam. Entrei no mundo da programação 
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JonasOak&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true%22/%3E"
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasOak&layout=compact&langs_count=7&theme=midnight-purple%22/%3E"/>
+    
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasOak&layout=compact&langs_count=7&theme=midnight-purple%22/%3E" />
 </div>
 
 ## Obrigado pela visita
