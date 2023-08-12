@@ -29,8 +29,8 @@ em aprender como muitas tecnologias funcionam. Entrei no mundo da programação 
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JonasOak&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasOak&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=JonasOak&theme=highcontrast&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasOak&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 ## Obrigado pela visita
