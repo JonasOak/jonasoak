@@ -3,7 +3,7 @@
 ## Sobre Mim
 
 Sou um estudante de programação e aspirante a desenvolvedor Java. Amo tecnologia desde criança e sempre tive curiosidade
-em aprender como muitas tecnologias funcionam. Entrei no mundo da programação aos 16 anos e pretendo aprender muito mais.
+em aprender como muitas tecnologias funcionam. Entrei no mundo da programação aos 18 anos e pretendo aprender muito mais.
 
 ## Estudando
 
