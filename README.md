@@ -3,7 +3,7 @@
 ## Sobre Mim
 
 Talvez você encontre algo interessante por aqui. Divirta-se
-
+<!--
 ## Estudando
 
 <div>
@@ -16,10 +16,10 @@ Talvez você encontre algo interessante por aqui. Divirta-se
 <div>
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<!-- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> -->
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
-
+-->
 ## Contatos
 
 <a href="https://www.linkedin.com/in/jonas-carvalho-1b7406250" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
